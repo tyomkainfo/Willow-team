@@ -1,0 +1,66 @@
+
+/*section_4*/
+
+
+.container_Alex{
+    max-width: 620px;
+    position: relative;
+    margin: auto;
+}
+.container_Alex h3{
+    margin-bottom: 41px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 1.2px;
+    color: #102226;
+    position: relative;
+    z-index: 2;
+}
+.container_Alex span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 48px;
+    letter-spacing: 1.2px;
+    color: #102226;
+}
+.container_Alex hr{
+    background: #DDE3E4;
+    margin-bottom: 40px;
+}
+.container_Alex h4{
+    margin-bottom: 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    letter-spacing: 0.72px;
+    color: #102226;
+}
+.container_Alex p{
+    margin-bottom: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    color: #485B60;
+}
+.container_Alex_sun{
+    position: absolute;
+    top: -60px;
+    left: -76px;
+    z-index: 1;
+}
+.container_Alex_vector{
+    position: absolute;
+    top: 205px;
+    left: -330px;
+}
+
