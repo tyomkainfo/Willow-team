@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.welcom_willow {
+    padding-top: 56px;
+    padding-bottom: 120px;
+}
+
+.cont_img{
+    display: block;
+    width: 100%;
+}
+
+.creation_brending {
+    padding-top: 158px;
+    padding-bottom: 148px;
+}
+
+.check_out {
+    padding-top: 50px;
+    padding-bottom: 144px;
+}
+
+.variety_skills {
+    padding-top: 60px;
+    padding-bottom: 161px;
+}
+
+.our_awards {
+    padding-top: 37px;
+    padding-bottom: 124px;
+}
+
+.quality {
+    padding-top: 34px;
+    padding-bottom: 143px;
+}
+
+.lets_build {
+    padding: 105px 0;
+}
+
+.blog_articles{
+    padding-top: 154px;
+    padding-bottom: 175px;
+}
