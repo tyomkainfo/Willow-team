@@ -1,0 +1,143 @@
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.elevate_brand {
+    position: relative;
+    z-index: 0;
+    max-width: 409px;
+    margin-right: 157px;
+    padding-left: 110px;
+}
+.elevate_brand h4 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #485B60;
+    padding-bottom: 11px;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: 2.88px;
+    color: #102226;
+    margin: 0;
+    padding-bottom: 21px;
+}
+.elevate_brand p {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    letter-spacing: 0.54px;
+    color: #102226;
+    padding-bottom: 32px;
+}
+
+.main_page .elevate_brand a {
+    background: #26534C;
+    padding: 13px 17px 13px 33px;
+    margin-bottom: 100px;
+}
+
+.main_page .elevate_brand .btn:hover  {
+    background-color: white;
+    color: black;
+}
+
+.main_page i {
+    padding-left: 30px;
+}
+
+.img_girl {
+    background-color:  #ECE8D9;
+    line-height: 0;
+    margin-right: 110px;
+}
+.img_girl img {
+    display: block;
+    width: 100%;
+}
+.box_1 {
+    position: absolute;
+    z-index: 1;
+    left: 680px;
+    top: 531px;
+    background-color: white;
+    max-width: 263px;
+    padding: 28px 32px;
+}
+.box_1 img {
+    margin-right: 24px;
+}
+.box_1 .text p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 32px;
+    letter-spacing: 0.32px;
+    color: #485B60;
+}
+.box_1 .text p:first-of-type {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.96px;
+    color: #102226;
+}
+
+
+.box_2 {
+    position: absolute;
+    z-index: 1;
+    left: 1144px;
+    top: 0;
+    max-width: 180px;
+    background-color: #1C3F3A;;
+    display: flex;
+    flex-direction: column;
+}
+.box_2 img {
+    float: right;
+
+}
+.box_2 p {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding: 8px 23px 23px 24px;
+
+}
+.box_2 a {
+    border: none;
+    background: #1C3F3A;
+}
+
+.main_page .box_2 a {
+    padding: 11px 60px 28px 24px;
+
+}
+.box_2 .btn {
+    display: flex;
+}
+
+.box_2 .btn i{
+    padding-left: 11px;
+
+}
+.box_2 .btn:hover  {
+    background-color: white;
+    color: black;
+    display: flex;
+}
