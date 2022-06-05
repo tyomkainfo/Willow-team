@@ -1,0 +1,99 @@
+.we_create_world{
+    padding-top: 115px;
+    padding-bottom: 198px;
+    position: relative;
+   }
+.we_create_world h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #102226;
+    max-width: 431px;
+    position: relative;
+    z-index: 2;
+       }
+.create_world_vector{
+    max-width: 180px;
+    position: absolute;
+    right:-180px;
+    top:70px ;
+    }
+.create_world_star{
+    max-width: 126px;
+    position: absolute;
+    z-index: 1;
+    top: 80px;
+    left: -50px;
+   }
+.we_create_world_blocks{
+    max-width: 425px;
+    padding-top: 41px;
+    padding-bottom: 45px;
+    padding-left: 41px;
+    border: 1px solid #DDE3E4;
+    width: 100%;
+    margin-top: 70px;
+    position: relative;
+}
+.we_create_world_blocks_img{
+    max-width: 32px;
+    padding-bottom: 32px;
+}
+.we_create_world_blocks h4{
+    padding-bottom: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+     letter-spacing: 0.96px;
+    color: #102226;
+}
+.we_create_world_blocks p{
+    padding-bottom: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 32px;
+    letter-spacing: 0.32px;
+    color: #485B60;
+    max-width: 318px;
+    width: 100%;
+}
+.we_create_world_blocks a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.28px;
+    color: #102226;
+}
+.we_create_world h3{
+    padding-bottom: 2px;
+}
+.we_create_world.container{
+    max-width: 1062px;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+.star_blocks_img{
+    max-width: 138px;
+    max-height: 128px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.we_create_world_blocks a:after{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f061";
+    padding-left: 11px;
+}
