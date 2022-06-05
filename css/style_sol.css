@@ -1,0 +1,40 @@
+.show_partners {
+    margin: 120px 80px 115px;
+}
+
+.examples {
+    display: flex;
+    justify-content: space-between;
+}
+
+.partners_logos {
+    list-style: none;
+    margin-right: 40px;
+}
+
+.partners_logos:last-child {
+    margin-right: 0px;
+}
+
+.owl-nav .owl-prev::after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-size: 14px;
+    color: #26534C;
+    content: "\f060";
+    margin-right: 17px;
+}
+
+.owl-nav .owl-next::after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-size: 14px;
+    color: #26534C;
+    content: "\f061";
+}
+
+.owl-nav {
+    position: absolute;
+    bottom: -30px;
+    left: 650px;
+}
