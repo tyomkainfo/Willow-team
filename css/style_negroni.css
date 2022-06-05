@@ -109,3 +109,8 @@
     content: "\f061";
     margin-left: 11px;
 }
+.description img:last-of-type{
+   position: absolute;
+    max-width: 52px;
+   top: -425px;
+}
