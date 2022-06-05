@@ -1,0 +1,111 @@
+.check_out .container {
+    max-width: 1080px;
+    position: relative;
+}
+.check_name{
+    margin-right: 131px;
+    margin-bottom: 72px;
+    max-width: 625px;
+}
+.case_h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #102226;
+    position: relative;
+    z-index: 2;
+    margin-left: 125px;
+
+
+}
+.case_sun{
+    position: absolute;
+    top: -40px;
+    left: 50px;
+    z-index: 1;
+}
+.feature {
+    border: 1px solid #1C3F3A;
+    padding: 9px 16px 9px 25px;
+    margin-right: 125px;
+    margin-bottom: 105px;
+    margin-top: 35px;
+    display: inline-block;
+    transition: 1s;
+}
+.feature:hover{
+    transform:scale(1.1);
+}
+.feature a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1C3F3A;
+}
+.feature a:after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f061";
+    margin-left: 17px;
+}
+.item{
+    max-width: 510px;
+    position: relative;
+    margin-bottom: 45px;
+    display: inline-block;
+
+}
+.item img{
+    display: block;
+    width: 100%;
+    transition: 1s;
+}
+.item img:hover{
+    transform:scale(1.05);
+}
+.description {
+    position: absolute;
+    bottom: 40px;
+    left: 44px;
+
+}
+.description h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.96px;
+    color: #F1F3F3;
+    margin-bottom: 24px;
+}
+.description p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 32px;
+    letter-spacing: 0.32px;
+    color: #1C3F3A;
+    margin-bottom: 20px;
+}
+.description a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.28px;
+    color: #1C3F3A;
+}
+.description a:after{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f061";
+    margin-left: 11px;
+}
