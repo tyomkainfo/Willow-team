@@ -18,13 +18,13 @@
     max-width: 180px;
     position: absolute;
     right:-180px;
-    top:70px ;
+    top:-45px ;
     }
 .create_world_star{
     max-width: 126px;
     position: absolute;
     z-index: 1;
-    top: 80px;
+    top: -55px;
     left: -50px;
    }
 .we_create_world_blocks{
