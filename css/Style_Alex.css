@@ -57,10 +57,12 @@
     top: -60px;
     left: -76px;
     z-index: 1;
+    max-width: 172px;
 }
 .container_Alex_vector{
     position: absolute;
     top: 205px;
     left: -330px;
+    max-width: 141px;
 }
 
