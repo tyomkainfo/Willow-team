@@ -1,0 +1,116 @@
+.blog_articles .container {
+    max-width: 1080px;
+    position: relative;
+}
+.blog_name{
+    margin-right: 131px;
+    margin-bottom: 72px;
+    max-width: 625px;
+}
+.blog_h2{
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #102226;
+    margin-left: 96px;
+
+
+}
+.blog_sun{
+    position: absolute;
+    top: -6px;
+    left: 50px;
+    z-index: 0;
+}
+.latest{
+    border: 1px solid #1C3F3A;
+    padding: 9px 16px 9px 25px;
+    margin-right: 125px;
+    margin-bottom: 105px;
+    margin-top: 35px;
+    display: inline-block;
+    transition: 1s;
+}
+.latest:hover{
+    transform:scale(1.1);
+}
+.latest a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1C3F3A;
+}
+.latest a:after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f061";
+    margin-left: 17px;
+}
+.blog_article_blocks{
+    position: relative;
+    box-sizing: border-box;
+    max-width: 400px;
+    padding: 0 25px;
+    border: 1px solid #DDE3E4;
+    border-radius: 0;
+}
+.wrapper_1{
+    padding: 88px 80px 0;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.wrapper_1 p{
+    margin-top: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #102226;
+}
+.wrapper_1 h3{
+    margin-top: 9px;
+    margin-bottom: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.72px;
+    color: #102226;
+}
+.wrapper_1 a{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1C3F3A;
+}
+.wrapper_1 a:after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f061";
+    margin-left: 17px;
+}
+
+.blog_article_blocks:nth-child(2){
+    margin: 0 40px 0 40px;
+}
+.wrapper_1 article:hover{
+    transform: scale(1.1);
+    transition: 1s;
+
+
+}
