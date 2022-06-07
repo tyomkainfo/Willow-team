@@ -1,0 +1,88 @@
+.our_awards .container {
+position: relative;
+}
+.our_awards h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #102226;
+    margin-bottom: 84px;
+}
+.our_awards .sun_awards {
+    position: absolute;
+    left: 50%;
+    margin-left: -66px;
+    top: -35px;
+    z-index: -1;
+}
+.cartier{
+    position: relative;
+    max-width: 290px;
+    padding: 44px 41px 45px 48px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    border: 1px solid #DDE3E4;
+    width: 100%;
+
+}
+.cartier_box
+{
+    flex-wrap: wrap;
+}
+.our_awards h4 {
+    padding-bottom: 31px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.72px;
+    color: #102226;
+}
+.our_awards span {
+    max-width: 201px;
+    text-align: center;
+    padding-bottom:31px ;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.72px;
+    color: #102226;}
+.our_awards p{
+    padding-top: 32px;
+    padding-bottom: 9px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #485B60;
+}
+
+.our_awards .btn{
+    font-family: 'Roboto', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.28px;
+    color: #102226;
+    border:none;
+}
+.our_awards hr{
+    background: #DDE3E4 ;
+    border-radius: 0;
+    max-width: 208px;
+}
+.our_awards .cont_img{
+    padding-bottom: 32px;
+}
