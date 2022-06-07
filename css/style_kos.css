@@ -41,8 +41,8 @@
     font-weight: 900;
     content: "\f10d";
     position: absolute;
-    left: 50px;
-    top: 0px;
+    left: 6px;
+    top: -58px;
     width: 18px;
     height: 14px;
     color: #CBC7B5;
@@ -82,4 +82,28 @@
     left: -47px;
     top: -35px;
     z-index: 1;
+}
+.quality .owl-nav .owl-prev:after{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f0d9";
+    color: #102226;
+    padding: 16px 19px 16px 17px;
+    background: #F1F3F3;
+    border-radius: 0;
+    margin-right: 42px;
+}
+.quality .owl-nav .owl-next:after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f0da";
+    color: #102226;
+    padding: 16px 17px 16px 19px;
+    background: #F1F3F3;
+    border-radius: 0;
+}
+.quality .owl-nav{
+    position: absolute;
+    bottom: 31px;
+    left: 574px;
 }
