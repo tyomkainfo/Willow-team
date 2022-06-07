@@ -15,6 +15,7 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #485B60;
+    padding-top: 27px;
     padding-bottom: 11px;
 }
 
@@ -56,7 +57,7 @@ h1 {
 .img_girl {
     background-color:  #ECE8D9;
     padding-top: 133px;
-    margin-top: -133px;
+    margin-top: -137px;
     line-height: 0;
     margin-right: 110px;
     position: relative;
@@ -105,7 +106,7 @@ h1 {
     position: absolute;
     z-index: 1;
     right: -74px;
-    top: 0;
+    bottom: 402px;
     max-width: 180px;
     background-color: #1C3F3A;;
     display: flex;
