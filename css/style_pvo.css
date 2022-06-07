@@ -47,8 +47,7 @@ a {
 header ul {
     list-style: none;
     padding-top: 36px;
-    position: relative;
-    right: 984px;
+    margin-right: 984px;
 }
 
 header nav ul li:hover {
