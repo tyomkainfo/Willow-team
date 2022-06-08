@@ -8,7 +8,6 @@
 }
 
 .partners_logos {
-    list-style: none;
     margin-right: 40px;
 }
 
@@ -16,25 +15,26 @@
     margin-right: 0px;
 }
 
-.owl-nav .owl-prev::after {
+.owl-dots .owl-dot::after {
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
-    font-size: 14px;
+    font-size: 7px;
     color: #26534C;
-    content: "\f060";
-    margin-right: 17px;
+    content: "\f111";
+    margin-right: 13px;
 }
 
-.owl-nav .owl-next::after {
+.owl-dots .owl-dot :active {
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
-    font-size: 14px;
+    font-size: 13px;
     color: #26534C;
-    content: "\f061";
+    content: "\f111";
+    margin-right: 13px;
 }
 
-.owl-nav {
+.owl-dots {
     position: absolute;
-    bottom: -30px;
+    bottom: -10px;
     left: 650px;
 }
