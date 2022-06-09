@@ -123,10 +123,11 @@
 }
 
 .btn i{
-    padding-left: 20px;
+    padding-left: 23px;
 }
 
 .btn:hover  {
     background-color: white;
     color: black;
+    transform:scale(1.1);
 }
