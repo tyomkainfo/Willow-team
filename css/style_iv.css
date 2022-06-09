@@ -1,3 +1,6 @@
+.slide1 .owl-dots{
+    left: 47%;
+}
 @media only screen and (max-width: 927px) {
     .container {
         max-width: 897px;
@@ -395,6 +398,10 @@
         top: -25px;
     }
 
+    .slide1 .owl-dots{
+        left: 38%;
+    }
+
     .create_world_star {
         top: -40px;
         left: -2%;
@@ -462,6 +469,10 @@
     .create_world_star {
         top: -40px;
         left: -2%;
+    }
+
+    .slide1 .owl-dots{
+        left: 30%;
     }
 
     .we_create_world h3{
@@ -627,6 +638,10 @@
     h1 {
         font-size: 35px;
         line-height: 55px;
+    }
+
+    .slide1 .owl-dots{
+        left: 15%;
     }
 
     .create_world_star {

@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    $('.owl-carousel').owlCarousel({
+    $('.slide1').owlCarousel({
         loop:true,
         margin:0,
         nav:true,
@@ -12,7 +12,7 @@ $(document).ready(function(){
             },
 
             320:{
-                items:2
+                items:1
             },
 
             428:{
@@ -40,7 +40,7 @@ $(document).ready(function(){
             },
 
             1000:{
-                items:4
+                items:1
             }
         }
     });
