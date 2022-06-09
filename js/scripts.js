@@ -11,8 +11,20 @@ $(document).ready(function(){
                 items:1
             },
 
+            320:{
+                items:2
+            },
+
+            428:{
+                items:3
+            },
+
+            768:{
+                items:4
+            },
+
             1000:{
-                items:1
+                items:6
             }
         }
     });

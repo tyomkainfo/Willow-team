@@ -104,10 +104,7 @@
     }
 
     .we_create_world_blocks {
-        max-width: 49%;
-        padding-top: 0;
-        padding-bottom: 0;
-        padding-left: 0;
+        max-width: 44%;
         margin: 10px 0;
     }
 
@@ -225,7 +222,7 @@
     }
 
     .description img:last-of-type{
-        bottom: 415px;
+        bottom: 380px;
     }
 }
 
@@ -249,6 +246,10 @@
 
     .case_sun{
         left: 28px;
+    }
+
+    .we_create_world_blocks{
+        padding: 30px 0 30px 30px;
     }
 
     .check_out .container {
@@ -330,7 +331,7 @@
     }
 
     .description img:last-of-type{
-        bottom: 348px;
+        bottom: 333px;
     }
 }
 
@@ -487,7 +488,8 @@
     }
 
     .description img:last-of-type{
-        bottom: 348px;
+        left: -15px;
+        bottom: 380px;
     }
 }
 
@@ -525,7 +527,8 @@
     }
 
     .description img:last-of-type{
-        bottom: 348px;
+        bottom: 355px;
+        left: -20px;
     }
 }
 
@@ -572,7 +575,8 @@
     }
 
     .description img:last-of-type{
-        bottom: 345px;
+        bottom: 335px;
+        left: -22px;
     }
 }
 
@@ -610,7 +614,8 @@
     }
 
     .description img:last-of-type{
-        bottom: 330px;
+        bottom: 318px;
+        left: -27px;
     }
 }
 
@@ -653,7 +658,8 @@
         max-width: 290px;
     }
 
-    .description img:last-of-type{
-        bottom: 290px;
+    .description img:last-of-type {
+        bottom: 271px;
+        left: -33px;
     }
 }
