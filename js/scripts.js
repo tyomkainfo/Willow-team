@@ -4,6 +4,11 @@ $(document).ready(function(){
         loop:true,
         margin:0,
         nav:true,
+        lazyLoad: true,
+        autoplay: true,
+        autoplayTimeout: 2500,
+        autoplaySpeed: 5000,
+        autoplayHoverPause: true,
         navText: [ '', ' ' ],
 
         responsive:{
