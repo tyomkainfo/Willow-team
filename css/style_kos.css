@@ -17,9 +17,12 @@
     margin-bottom: 63px;
     position: relative;
 }
+.quality_content {
+    max-width: 950px;
+}
+
 .quality_content-img{
     max-width: 484px;
-    margin-right: 92px;
 }
 .quality_quote blockquote{
     font-family: 'Roboto', sans-serif;
@@ -29,12 +32,11 @@
     line-height: 40px;
     color: #102226;
     margin-bottom: 91px;
-    max-width: 374px;
 
 }
 .quality_quote{
     position: relative;
-    width: 100%;
+    max-width: 374px;
 }
 .quality_quote blockquote:before{
     font-family: "Font Awesome 6 Free";
@@ -83,27 +85,29 @@
     top: -35px;
     z-index: 1;
 }
-.quality .owl-nav .owl-prev:after{
+.slide2 .owl-nav .owl-prev:after{
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
     content: "\f0d9";
     color: #102226;
     padding: 16px 19px 16px 17px;
     background: #F1F3F3;
-    border-radius: 0;
-    margin-right: 42px;
+    margin-right: 34px;
 }
-.quality .owl-nav .owl-next:after {
+.slide2 .owl-nav .owl-next:after {
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
     content: "\f0da";
     color: #102226;
     padding: 16px 17px 16px 19px;
     background: #F1F3F3;
-    border-radius: 0;
 }
-.quality .owl-nav{
+.slide2 .owl-nav{
     position: absolute;
-    bottom: 31px;
+    bottom: 13px;
     left: 574px;
+}
+
+.owl-carousel.slide2 .owl-dots{
+    display: none;
 }
