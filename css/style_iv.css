@@ -388,6 +388,10 @@
         padding: 5px 0 10px 20px;
     }
 
+    .box_2 .btn:hover{
+        font-size: 14px;
+    }
+
     .img_girl{
         padding-top: 0;
     }
