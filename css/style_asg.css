@@ -406,6 +406,9 @@
     .quality_quote {
         max-width: 150px;
     }
+    .quality_content-img {
+        max-width: 165px ;
+    }
 
     .quality_quote span, .quality_quote p {
         font-size: 10px;
