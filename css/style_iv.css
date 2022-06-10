@@ -127,6 +127,10 @@
         padding-bottom: 0;
     }
 
+    .item img:hover {
+        transform: scale(1.03);
+    }
+
     .check_out .d-flex{
         margin-bottom: 30px;
         justify-content: space-around;
