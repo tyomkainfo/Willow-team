@@ -286,6 +286,9 @@
     .quality_quote {
         max-width: 184px;
     }
+    .quality_content-img {
+        max-width: 190px ;
+    }
 
     .quality_quote p {
         margin-bottom: 0;
