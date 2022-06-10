@@ -127,6 +127,10 @@
         padding-bottom: 0;
     }
 
+    .item img:hover {
+        transform: scale(1.03);
+    }
+
     .check_out .d-flex{
         margin-bottom: 30px;
         justify-content: space-around;
@@ -382,6 +386,10 @@
 
     .main_page .box_2 a{
         padding: 5px 0 10px 20px;
+    }
+
+    .box_2 .btn:hover{
+        font-size: 14px;
     }
 
     .img_girl{

@@ -1,3 +1,6 @@
+.our_awards .btn{
+    margin-top: 10px;
+}
 @media only screen and (max-width: 927px) {
     .container {
         max-width: 896px;
@@ -54,6 +57,9 @@
         left: 521px;
     }
 
+    .our_awards .btn{
+        margin-top: 10px;
+    }
     /*LETS BUILD*/
     .info_container {
         margin-left: 0;
@@ -118,6 +124,9 @@
     .marketing_img img {
         display: block;
         width: 100%;
+    }
+    .wrapper_1 article{
+        transition: 1s;
     }
 }
 
@@ -195,6 +204,10 @@
     .img_sun {
         max-width: 159px;
     }
+    .blog_articles article:first-of-type h3, .blog_articles article:nth-of-type(2) h3{
+        max-width: 160px;
+
+    }
 }
 
 @media only screen and (max-width: 781px) {
@@ -221,6 +234,7 @@
     .img_sun {
         max-width: 159px;
     }
+
 }
 
 @media only screen and (max-width: 769px) {
@@ -285,6 +299,9 @@
 
     .quality_quote {
         max-width: 184px;
+    }
+    .quality_content-img {
+        max-width: 190px ;
     }
 
     .quality_quote p {
@@ -365,6 +382,14 @@
     .blog_article_blocks:nth-child(2) {
         margin-bottom: 20px;
     }
+    .wrapper_1 article:hover{
+        transform: scale(1.03);
+        transition: 1s;
+    }
+    .blog_articles article:first-of-type h3, .blog_articles article:nth-of-type(2) h3{
+        max-width: 100%;
+
+    }
 }
 
 @media only screen and (max-width: 415px) {
@@ -406,6 +431,9 @@
     .quality_quote {
         max-width: 150px;
     }
+    .quality_content-img {
+        max-width: 165px ;
+    }
 
     .quality_quote span, .quality_quote p {
         font-size: 10px;
@@ -426,7 +454,7 @@
     }
 }
 
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 375px) {
     .container {
         max-width: 345px;
     }
