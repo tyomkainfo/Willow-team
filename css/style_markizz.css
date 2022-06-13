@@ -1,83 +1,81 @@
+.footer{
+    margin-bottom: 49px;
+}
+
 .footer_container{
-    width: 1043px;
+    width: 1060px;
     margin: 0 auto;
-    padding: 10px 0px 0px 55px;
-    position: center;
-}
-
-.footer_footer{
-    height: 138px;
-    padding-top: 49px;
-}
-
-.footer_Flowbase{
-    height: 89px;
-    background-color: #F1F3F3;
 }
 
 .footer_menu{
-    list-style: none;
     font-family: Roboto;
     font-size: 14px;
     display: inline;
     letter-spacing: 0.42px;
-    text-align: center;
-    line-height: 24px;
-    padding-top: 57px;
 }
 
-.footer_pulse{
+.footer_sun{
     vertical-align: middle;
-    float: left;
-    margin: 49px 12px 0px 0px;
 }
 
 .footer_willow{
-    float: left;
     font-family: Roboto;
     font-size: 24px;
+    letter-spacing: 1px;
     color: #333333;
-    margin: 53px 0px 0px 0px;
+    margin: 0px 435px 0px 12px;
 }
 
-.footer_menu li {
-    display: inline;
-    margin-left: 34px;
-}
-
-.footer_list{
-    width: 600px;
-    margin: 57px 0px 0px 485px;
-}
-
-.footer_li{
+.footer_menu_li{
+    margin-right: 34px;
     color: #1C3F3A;
 }
 
-.footer_by{
-    margin: 25px 0px 0px 0px;
-    color: #102226;
+.under_footer{
+    background-color: #F1F3F3;
+    padding: 25px 0px 25px 0px;
+    margin: 0 auto;
 }
 
-.footer_href{
+
+.under_footer_menu_li{
+    margin-right: 57px;
+    color: #1C3F3A;
+    vertical-align: middle;
+    display: inline;
+}
+
+.under_footer_webflow{
     color: #26534C;
-}
-
-.footer_Flowbase_list li {
-    display: inline;
-    margin-left: 57px;
-}
-
-.footer_Flowbase_list{
-    width: 600px;
-    margin: 0px 0px 0px 332px;
-
-    list-style: none;
-    font-family: Roboto;
-    font-size: 14px;
-    display: inline;
+    margin-right: 401px;
+    font-family: Inter;
+    font-size: 12px;
     letter-spacing: 0.42px;
-    text-align: center;
-    line-height: 24px;
-    padding-top: 57px;
+
 }
+
+.under_footer_flowbase{
+    color: #26534C;
+    font-family: Inter;
+    font-size: 12px;
+    letter-spacing: 0.42px;
+}
+
+.under_footer_template{
+    font-family: Inter;
+    font-size: 13px;
+    letter-spacing: 0.42px;
+}
+
+.under_footer_powered{
+    font-family: Inter;
+    font-size: 13px;
+    letter-spacing: 0.42px;
+}
+
+.under_footer_menu_li{
+    font-family: Roboto;
+    font-size: 13px;
+    letter-spacing: 0.42px;
+}
+
